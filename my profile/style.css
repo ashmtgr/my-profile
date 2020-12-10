@@ -1,5 +1,5 @@
 body {
- background-color: linen;
+ background-color: white;
   color: black;
    font-family: 'Lora', serif;
     font-size:17.5px; 
@@ -28,9 +28,6 @@ h3 {
 	 color: #696969;
 }
 
-
-
-
 a {
 	color: black;
 	 font-size: 17px;
@@ -41,15 +38,7 @@ a:hover {
 	color: silver;
 }
 
-@media (max-width: 500px) {
-	.container {
-		width: 400px;
-	}
-}
 
-@media (max-width: 760px) {
-	.container {
-		width: 600px;
-	}
-}
+
+
 

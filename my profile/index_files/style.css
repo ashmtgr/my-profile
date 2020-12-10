@@ -28,7 +28,10 @@ h3 {
 	 color: #696969;
 }
 
+h4 {
 
+	background-color: black;
+}
 
 
 a {
@@ -41,15 +44,7 @@ a:hover {
 	color: silver;
 }
 
-@media (max-width: 500px) {
-	.container {
-		width: 400px;
-	}
-}
 
-@media (max-width: 760px) {
-	.container {
-		width: 600px;
-	}
-}
+
+
 
